@@ -21,7 +21,7 @@ repository               : "https://github.com/Ztcreazy/tz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/Ztcreazy/tz.github.io/blob/master/images/profile.jpg"
   name             : "Tong Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Master Student at Mechatronics and Embedded Control Systems"
