@@ -11,6 +11,6 @@ I am a second-year master student at [Mechatronics and Embedded Control Systems]
 
 Attached is my CV and contact information.
 
-[Tong Zhao's Curriculum Vitae](../assets/CV.pdf)
+[Tong Zhao's Curriculum Vitae](https://github.com/Ztcreazy/tz.github.io/blob/master/assets/CV.pdf)
 
-[Email](mailto:tongzhao@kth.se)/[GitHub](https://github.com/Ztcreazy)/[WeChat](../images/wechat.jpg)
+[Email](mailto:tongzhao@kth.se)/[GitHub](https://github.com/Ztcreazy)/[WeChat](https://github.com/Ztcreazy/tz.github.io/blob/master/images/wechat.jpg)
