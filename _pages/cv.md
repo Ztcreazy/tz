@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mechatronics and Embedded Control Systems, KTH Royal Institute of Technology, 2022.08-2024.10
+* B.S. in Flight Vehicle Propulsion Engineering, NWPU Northwestern Polytechnical University, 2018.09-2022.07
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.06-2024.09: Research Assistant
+  * Digital Futures
+  * Robust Optimization, Distributed Optimization
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024.05-2024.10: Research Assistant
+  * KTH Royal Institute of Technology
+  * Robust Model Predictive Control
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.09-2023.12: Teaching Assistant
+  * KTH Royal Institute of Technology
+  * Dynamic and Motion Control
   
-Skills
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Control Theory, Linear Algebra
+* Optimization
+  * Nonlinear Programming, Optimal Control, Distributed Optimization
+  * Robust Optimization, Stochastic Programming
+  * Semidefinite Programming, Measure, Moment
+* Nonlinear Control, Differential Geometry
+* Dynamic Systems, Different Equations
+* Game Theory, Graph Theory
 
 Publications
 ======
