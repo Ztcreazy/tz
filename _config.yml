@@ -12,7 +12,7 @@ title                    : "TONG ZHAO / Home"
 title_separator          : "-"
 name                     : &name "Tong Zhao"
 description              : &description "Master Student at Mechatronics and Embedded Control Systems, KTH Royal Institute of Technology"
-url                      : https://ztcreazy.github.io/tz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ztcreazy.github.io/tz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Ztcreazy/tz.github.io"
 
