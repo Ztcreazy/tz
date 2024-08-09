@@ -14,5 +14,7 @@ Attached is my CV and contact information.
 CV: [Tong Zhao's Curriculum Vitae](https://github.com/Ztcreazy/tz.github.io/blob/master/assets/CV.pdf)
 
 [Email](mailto:tongzhao@kth.se): tongzhao@kth.se
+
 [GitHub](https://github.com/Ztcreazy)
+
 [WeChat](https://github.com/Ztcreazy/tz.github.io/blob/master/images/wechat.png)
