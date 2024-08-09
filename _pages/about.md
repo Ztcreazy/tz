@@ -15,6 +15,6 @@ CV: [Tong Zhao's Curriculum Vitae](https://github.com/Ztcreazy/tz.github.io/blob
 
 [Email](mailto:tongzhao@kth.se): tongzhao@kth.se
 
-[GitHub](https://github.com/Ztcreazy)
+[GitHub](https://github.com/Ztcreazy): https://github.com/Ztcreazy
 
-[WeChat](https://github.com/Ztcreazy/tz.github.io/blob/master/images/wechat.png)
+[LinkedIn](https://www.linkedin.com/in/tong-zhao-85711b25a/): https://www.linkedin.com/in/tong-zhao-85711b25a/
